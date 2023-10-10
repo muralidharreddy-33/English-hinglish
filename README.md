@@ -10,9 +10,7 @@ English: Mahatma Gandhi is the father of the nation of India
 
 Hindi: महात्मा गांधी भारत के राष्ट्रपिता हैं
 
-Hinglish: Mahatma Gandhi bharat ke rashtrapita hae
-
-Built by [Kamal Kant](https://kama1kant.com/)
+Hinglish: Mahatma Gandhi bharat ke rashtrapita 
 
 ##  How it works
 ### Model
