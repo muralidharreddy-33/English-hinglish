@@ -30,5 +30,3 @@ streamlit run streamlit-translator-english-to-hinglish.py
 - Pytorch
 - Huggingface Transformers
 - Streamlit
-## Contact
-If you have any questions or feedback, feel free to reach out to me at <kamalkant.k3@gmail.com>
